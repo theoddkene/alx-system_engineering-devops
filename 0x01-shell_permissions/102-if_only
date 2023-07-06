@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --frrom=guillume  betty hello
+chown --from=guillume  betty hello
